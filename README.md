@@ -33,6 +33,8 @@ This project was created to learn the fundamentals of **GUI development in Java*
 ## Screenshots
 # WINDOW:
 <img width="747" height="630" alt="Screenshot 2026-08-12 012440" src="https://github.com/user-attachments/assets/996916e1-71ec-4ad9-ad5f-6c5c3970ecc9" />
+
+
 # SET ICON:
 <img width="240" height="57" alt="Screenshot 2026-08-12 012448" src="https://github.com/user-attachments/assets/10c49ed2-d86c-4829-ba07-b79109fe1639" />
 
